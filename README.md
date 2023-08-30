@@ -1,2 +1,2 @@
 # NimGame
-Simple NimGame implementation where player plays against a computer algorithm
+Simple NimGame implementation where player plays against a computer algorithm (highschool java)
